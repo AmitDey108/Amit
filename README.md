@@ -1,4 +1,4 @@
-# Endless Road Rush
+# Endless Car Racing Game
 ## Game Description
 **Endless Car Racing Game** is a fast-paced 2D arcade game built using the **iGraphics** library in C++. The game challenges players to maneuver a car through an endless road while avoiding oncoming vehicles and collecting coins to increase their score.
 
